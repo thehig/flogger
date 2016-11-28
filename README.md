@@ -1,0 +1,2 @@
+# flogger
+Friendly Logger
